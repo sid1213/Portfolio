@@ -1,2 +1,2 @@
 # Portfolio
-Hello i'm siddharth and i'm a web developer
+Hello i'm siddharth and her's my portfolio
