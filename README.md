@@ -4,8 +4,6 @@ Hello i'm siddharth and here's my portfolio website, in this i have showcase all
 ## Used technologies 
  - HTML
  - CSS
- - JAVASCRIPT
- - BOOTSTRAP (Css library, this i used for flex layouting)
- - AOS.JS (An extension for scroll animations)
+
 ### live link 
 https://stalwart-cendol-ab95cb.netlify.app/
