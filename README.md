@@ -4,3 +4,8 @@ Hello i'm siddharth and her's my portfolio website i have descirbed a my skills 
 ## Used technologies 
  - HTML
  - CSS
+ - JAVASCRIPT
+ - BOOTSTRAP (Css library, this i used for flex layouting)
+ - AOS.JS (An extension for scroll animations)
+### live link 
+https://stalwart-cendol-ab95cb.netlify.app/
